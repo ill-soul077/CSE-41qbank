@@ -1,0 +1,15 @@
+# Publish only the six standalone subject files and this download guide.
+# Keep editable sources, original scans, temporary files and personal notes local.
+/*
+!/.gitignore
+!/README.md
+!/dist/
+/dist/*
+!/dist/portable/
+/dist/portable/*
+!/dist/portable/computer-networks.html
+!/dist/portable/computer-graphics.html
+!/dist/portable/computer-and-network-security.html
+!/dist/portable/image-processing-and-computer-vision.html
+!/dist/portable/machine-learning.html
+!/dist/portable/natural-language-processing.html
